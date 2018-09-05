@@ -70,7 +70,7 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
 #### 11. December 6
   * Introduction to generated audio, WaveNet/NSynth.
 
-##### 12. December 13
+#### 12. December 13
   * **Final performances**.
 
 
