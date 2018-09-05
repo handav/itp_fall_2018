@@ -1,7 +1,5 @@
 ## Generative Music, NYU ITP, Fall 2018
 
-[editor on GitHub](https://github.com/handav/itp_fall_2018/edit/master/index.md)
-
 ### Description
 --------
 
@@ -17,10 +15,10 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
 --------
 
 1. September 6\
-Introduction to each other!\
-History of generative music.\
-Overview of course and tools we'll use. \
-Talking about notations, generating scores vs generating audio.
+*Introduction to each other
+*Overview of generative music
+*Overview of course and tools we'll use
+*Talking about notations, generating scores vs generating audio
 
 2. September 13\
 Probabilistic and biological systems. 
