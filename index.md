@@ -1,6 +1,5 @@
 ## Generative Music, NYU ITP, Fall 2018
-### Instructor: Hannah Davis
-### Email: hannah.davis@nyu.edu
+#### Instructor: [Hannah Davis](www.hannahishere.com) | hannah.davis@nyu.edu
 
 ### Description
 --------
@@ -17,13 +16,13 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
 --------
 
 Evaluation:
-  * 40% of class is attendance. 3 unexcused absences will be counted as a failure.
+  * 40% of class is attendance. 3 unexcused absences is an F.
   * 15% for each of 3 main assignments.
   * 15% for participation in class, including blog posts and commenting on others' work.
 
-Code for each class as well as homework assignments and readings can be found at (https://github.com/handav/itp_fall_2018).
+Code for each class as well as homework assignments and readings can be found at [https://github.com/handav/itp_fall_2018](https://github.com/handav/itp_fall_2018).
 
-Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours online. You may also request other hours. Sign up here: [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUZoQjJnV3BlVEZsfGRlZmF1bHR8NzczMmJkYWNkYTEyOWFjZDRlZDJmODZjMmI0NDNjNjI).
+Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours online. You may also request other hours. Sign up: [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUZoQjJnV3BlVEZsfGRlZmF1bHR8NzczMmJkYWNkYTEyOWFjZDRlZDJmODZjMmI0NDNjNjI).
 
 
 ### Syllabus (subject to change)
@@ -87,6 +86,8 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 #### 12. December 13
   * **Final performances**.
 
+### Statements
+--------
 
 ### STATEMENT OF ACADEMIC INTEGRITY
 
