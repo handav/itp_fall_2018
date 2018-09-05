@@ -15,23 +15,23 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
 ### Syllabus (subject to change)
 --------
 
-##### 1. September 6
+#### 1. September 6
   * Introduction to each other
   * Overview of generative music
   * Overview of this course 
   * Tools, notations, themes 
 
-##### 2. September 13
+#### 2. September 13
 
   * Probabilistic and biological systems
 
-##### 3. September 20
+#### 3. September 20
 
   * Generating music from data: samples and composition.
 
 **No class September 27**
 
-##### 4. October 4
+### 4. October 4
   * **Performances**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
   * Collecting and creating datasets. Biases in machine learning music.
@@ -67,6 +67,6 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
   * Introduction to generated audio, WaveNet/NSynth.
 
 ##### 12. December 13
-Final **performances**.
+  * Final **performances**.
 
 
