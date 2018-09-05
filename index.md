@@ -29,44 +29,48 @@ Note: this is a 12-week class spread over the 14-week semester. There will be NO
 
   * Generating music from data: samples and composition.
 
-**No class September 27**
+#### **No class September 27**
 
-### 4. October 4
+#### 4. October 4
   * **Performances**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
   * Collecting and creating datasets. Biases in machine learning music.
 
-##### 5. October 11
+#### 5. October 11
   * Introduction to deep ML. Understanding neural nets.
   * Working with Wekinator.
 
-##### 6. October 18
+#### 6. October 18
   * Working with ml5.js: LSTMs, pitch detection.
   * Training your own model
 
-##### 7. October 25
-  * Introduction to clustering algorithms, T-SNEs. Live coding.\
+#### 7. October 25
+  * Introduction to clustering algorithms, T-SNEs. Live coding.
   * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
 
-**No class November 1**
+#### **No class November 1**
 
-##### 8. November 8
+#### 8. November 8
   * **Performances** (can be music, dataset, or model).
   * Introduction to RNNs
   * FolkRNN
 
-##### 9. November 15
-  * Recursive neural networks (RNNs) for melodies, percussion, harmonies, performance.
+#### 9. November 15
+  * Recursive neural networks (RNNs)
+    * melodies
+    * percussion
+    * harmonies
+    * performance.
 
-**No class November 22nd, Thanksgiving**
+#### **No class November 22nd, Thanksgiving**
 
-##### 10. November 29
-  * Introduction to variational autoencoders (VAEs).\
+#### 10. November 29
+  * Introduction to variational autoencoders (VAEs).
 
-##### 11. December 6
+#### 11. December 6
   * Introduction to generated audio, WaveNet/NSynth.
 
 ##### 12. December 13
-  * Final **performances**.
+  * **Final performances**.
 
 
