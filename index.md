@@ -86,7 +86,9 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 #### 12. December 13
   * **Final performances**.
 
-### Statements
+
+
+## Statements
 --------
 
 ### STATEMENT OF ACADEMIC INTEGRITY
