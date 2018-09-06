@@ -4,4 +4,4 @@ Please find a generative music project and write a few sentences about the under
 
 Must be different from the projects and musicians shown in class.   
 
-[Put the links to your blog posts here: https://github.com/handav/itp_fall_2018/wiki/Class-1-Assignments](https://github.com/handav/itp_fall_2018/wiki/Class-1-Assignments)
+Put the links to your blog posts here: [https://github.com/handav/itp_fall_2018/wiki/Class-1-Assignments](https://github.com/handav/itp_fall_2018/wiki/Class-1-Assignments)
