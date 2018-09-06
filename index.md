@@ -73,7 +73,7 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
     * melodies
     * percussion
     * harmonies
-    * performance.
+    * performance
 
 #### **No class November 22nd, Thanksgiving**
 
