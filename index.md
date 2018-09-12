@@ -36,7 +36,9 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 
 #### 2. September 13
 
-  * Probabilistic and biological systems
+  * Probabilistic systems: Markov Chains
+  * Introduction to Python
+  * Basic MIDI processing
 
 #### 3. September 20
 
