@@ -42,9 +42,7 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 
 #### 3. September 20
 
-  * Generating music from data: 
-      * with samples
-      * with composition
+  * Generating music from data with sample and composition
   * Creating and saving MIDI files
 
 #### **No class September 27**
