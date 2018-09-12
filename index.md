@@ -42,14 +42,18 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 
 #### 3. September 20
 
-  * Generating music from data: samples and composition.
+  * Generating music from data: 
+      * with samples
+      * with composition
+  * Creating and saving MIDI files
 
 #### **No class September 27**
 
 #### 4. October 4
   * **Performances**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
-  * Collecting and creating datasets. Biases in machine learning music.
+  * Collecting and creating datasets. 
+  * Biases in machine learning, in general and in music specifically.
 
 #### 5. October 11
   * Introduction to deep ML. Understanding neural nets.

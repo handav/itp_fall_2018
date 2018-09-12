@@ -16,7 +16,7 @@ var input_text;
 // A function to play a note
 function playNote(num, note, duration) {
     console.log('Playing ', note);
-    osc.freq(midiToFreq(C_maj_scale[note]));
+    osc.freq(midiToFreq(note));
     // fade it in
     osc.fade(0.5, 0.2);
     // // fade it out
@@ -28,10 +28,8 @@ function playNote(num, note, duration) {
     console.log('num: ', num);
     if (num < generated_length-1) {
         setTimeout(function() {
-            //play from midi note num
-            playNote(num + 1, notes[num + 1], noteDuration);
-            // play from letter note
-            // playNote(num + 1, C_maj_scale[notes[num + 1]], noteDuration);
+            console.log(C_maj_scale[notes[num + 1]]);
+            playNote(num + 1, C_maj_scale[notes[num + 1]], noteDuration);
         }, noteDuration);
     }
 }
