@@ -20,9 +20,11 @@ Evaluation:
   * 10% for each of 3 main assignments.
   * 30% for participation in class, including blog posts and commenting on others' work.
 
-Code for each class as well as homework assignments and readings will be found at [https://github.com/handav/itp_fall_2018](https://github.com/handav/itp_fall_2018).
+Code for each class as well as homework assignments and readings will be found at [https://github.com/handav/itp_fall_2018/tree/master/classes](https://github.com/handav/itp_fall_2018/tree/master/classes).
 
-Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours online. You may also request other hours. Sign up: [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUZoQjJnV3BlVEZsfGRlZmF1bHR8NzczMmJkYWNkYTEyOWFjZDRlZDJmODZjMmI0NDNjNjI).
+Assignments can be submitted at [https://github.com/handav/itp_fall_2018/wiki](https://github.com/handav/itp_fall_2018/wiki).
+
+Office hours are late Thursdays afternoon in person, and occasional Monday hours online. You may also request other hours. Sign up: [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUZoQjJnV3BlVEZsfGRlZmF1bHR8NzczMmJkYWNkYTEyOWFjZDRlZDJmODZjMmI0NDNjNjI).
 
 
 ### Syllabus (subject to change)
@@ -68,7 +70,7 @@ Office hours are 4:30-6 on Thursdays in person, and occasional Monday hours onli
 #### **No class November 1**
 
 #### 8. November 8
-  * **Performances** (can be music, dataset, or model).
+  * **Performances** (can be music, dataset, or trained model).
   * Introduction to RNNs
   * FolkRNN
 

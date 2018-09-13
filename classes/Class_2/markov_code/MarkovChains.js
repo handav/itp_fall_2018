@@ -11,7 +11,6 @@ var C_maj_scale = {
 var notes;
 var noteDuration = 500;
 var generated_length = 4;
-var input_text;
 
 // A function to play a note
 function playNote(num, note, duration) {
@@ -35,22 +34,23 @@ function playNote(num, note, duration) {
 }
 
 function setup() {
-    // SOUND
-    // triangle oscillator
-    osc = new p5.TriOsc();
-    // start silent
-    osc.start();
-    osc.amp(0);
-
-    // NUMBER OF N-GRAMS
+    // MARKOV
+    // number of n-grams
     rm = new RiMarkov(3);
     text_to_generate_from = "G G D D E E D C C B B A A G";
     rm.loadText(text_to_generate_from);
     rm.print();
     notes = rm.generateTokens(generated_length);
     console.log(notes);
+
+    // SOUND
+    // triangle oscillator
+    osc = new p5.TriOsc();
+    // start silent
+    osc.start();
+    osc.amp(0);
     // play from letter note
-    //playNote(0, C_maj_scale[notes[0]], noteDuration);
+    playNote(0, C_maj_scale[notes[0]], noteDuration);
 }
 
 function draw() {}

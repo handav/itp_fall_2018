@@ -43,21 +43,21 @@ function preload(){
 }
 
 function setup() {
+    // MARKOV
+    // number of n-grams
+    rm = new RiMarkov(3);
+    // if loading notes
+    rm.loadTokens(input_text);
+    rm.print();
+    notes = rm.generateTokens(generated_length);
+    console.log(notes);
+
     // SOUND
     // A triangle oscillator
     osc = new p5.TriOsc();
     // Start silent
     osc.start();
     osc.amp(0);
-
-    // NUMBER OF N-GRAMS
-    rm = new RiMarkov(3);
-    text_to_generate_from = input_text;
-    // if loading notes
-    rm.loadTokens(text_to_generate_from);
-    rm.print();
-    notes = rm.generateTokens(generated_length);
-    console.log(notes);
     // play from midi note number 
     playNote(0, notes[0], noteDuration);
 }
