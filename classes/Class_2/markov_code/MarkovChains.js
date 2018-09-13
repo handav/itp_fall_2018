@@ -34,7 +34,6 @@ function playNote(num, note, duration) {
     }
 }
 
-
 function setup() {
     // SOUND
     // triangle oscillator
@@ -51,7 +50,7 @@ function setup() {
     notes = rm.generateTokens(generated_length);
     console.log(notes);
     // play from letter note
-    playNote(0, C_maj_scale[notes[0]], noteDuration);
+    //playNote(0, C_maj_scale[notes[0]], noteDuration);
 }
 
 function draw() {}

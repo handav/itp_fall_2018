@@ -4,11 +4,12 @@ In the folder markov_code, there are two .js files: one to create a simple Marko
 
 In the folder python_midi_processing, there is a Python script to take a midi file and output a text file of the chronological notes from the midi.
 
-This workshop will require rita.js.
+This workshop will require rita.js. If you don't already have it, please download the rita-full.js file from [https://rednoise.org/rita/download.php](https://rednoise.org/rita/download.php).
 
-p5.js examples require a simple server to host external files.
 
 #### Creating a local server
+
+p5.js examples require a simple server to host external files.
 
 There are many different ways to create a local server. Here are some:
 
