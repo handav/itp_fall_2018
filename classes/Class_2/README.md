@@ -60,4 +60,6 @@ https://www.codecademy.com/learn/learn-python
 
 2) Read: https://medium.com/@alwaysbcoding/an-intro-to-music-theory-for-hackers-8969ad4c1231
 
-3) (Optional) Next week we will be working on data sonification. A cleaned dataset will be provided, but you're welcome to bring your own (cleaned) data as well.
+3) If you aren't familiar with sheet music, read: https://www.musicnotes.com/blog/2014/04/11/how-to-read-sheet-music/
+
+4) (Optional) Next week we will be working on data sonification. A cleaned dataset will be provided, but you're welcome to bring your own (cleaned) data as well.
