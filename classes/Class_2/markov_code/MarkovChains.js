@@ -12,6 +12,7 @@ var notes;
 var noteDuration = 500;
 var generated_length = 4;
 
+
 // A function to play a note
 function playNote(num, note, duration) {
     console.log('Playing ', note);
@@ -27,7 +28,7 @@ function playNote(num, note, duration) {
     console.log('num: ', num);
     if (num < generated_length-1) {
         setTimeout(function() {
-            console.log(C_maj_scale[notes[num + 1]]);
+            //console.log(C_maj_scale[notes[num + 1]]);
             playNote(num + 1, C_maj_scale[notes[num + 1]], noteDuration);
         }, noteDuration);
     }

@@ -53,7 +53,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * **Performances**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
   * Collecting and creating datasets. 
-  * Biases in machine learning, in general and in music specifically.
+  * Biases in machine learning (limits of notation), in general and in music specifically.
 
 #### 5. October 11
   * Introduction to deep ML. Understanding neural nets.
@@ -69,7 +69,9 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### **No class November 1**
 
-#### 8. November 8
+#### **November 8 No class -- makeup class November 12**
+
+#### 8. **Monday November 12**
   * **Performances** (can be music, dataset, or trained model).
   * Introduction to RNNs
   * FolkRNN

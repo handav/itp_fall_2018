@@ -8,6 +8,7 @@ for i, track in enumerate(mid.tracks):
 # create array of notes
 notes = []
 for message in mid.tracks[1]:
+    print message
     if message.type == 'note_on':
         message_components = str(message).split(' ')
         for item in message_components:
