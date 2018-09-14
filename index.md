@@ -69,9 +69,9 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### **No class November 1**
 
-#### **November 8 No class -- makeup class November 12**
+#### **No class November 8 -- makeup class November 12**
 
-#### 8. **Monday November 12**
+#### 8. **Monday** November 12
   * **Performances** (can be music, dataset, or trained model).
   * Introduction to RNNs
   * FolkRNN
