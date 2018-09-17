@@ -66,6 +66,8 @@ https://www.codecademy.com/learn/learn-python
 
 ### Resources
 
-http://setosa.io/ev/markov-chains/\
-https://www.youtube.com/watch?v=QyqiSbbwHIs\
-https://www.youtube.com/watch?v=mXIJO-af_u8\
+http://setosa.io/ev/markov-chains/
+
+https://www.youtube.com/watch?v=QyqiSbbwHIs
+
+https://www.youtube.com/watch?v=mXIJO-af_u8
