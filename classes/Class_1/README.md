@@ -9,3 +9,7 @@ Put the links to your blog posts here: [https://github.com/handav/itp_fall_2018/
 2) Listen to any version of Terry Riley's 'In C'.
 
 My favorite: https://www.youtube.com/watch?v=_FXQ68ZkWVw
+
+### Resources
+
+http://teropa.info/loop/

@@ -1,10 +1,8 @@
 # Installation and Downloads
 
-We will help you with any difficulties during this section.
+## 1) Download this code
 
-## 1) Download this repo
-
-Click on the green 'clone or download' button. To clone using terminal, type:
+If you want to download the whole repo, click on the green 'clone or download' button. To clone using terminal, type:
 
 `git clone https://github.com/handav/workshop.git` 
 
@@ -12,7 +10,7 @@ and then
 
 `cd workshop` to enter the folder.
 
-Otherwise, download the zip file to the location of your choosing.
+You can also, download the zip file to the location of your choosing.
 
 ## 2) Check your Python version and install requirements
 

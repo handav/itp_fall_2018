@@ -57,14 +57,15 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 5. October 11
   * Introduction to deep ML. Understanding neural nets.
-  * Working with Wekinator.
+  * Introduction to ml5.js.
 
 #### 6. October 18
   * Working with ml5.js: LSTMs, pitch detection.
   * Training your own model
 
 #### 7. October 25
-  * Introduction to clustering algorithms, T-SNEs. Live coding.
+  * Introduction to clustering algorithms, k-means, T-SNEs. Live coding.
+  * Working with Wekinator
   * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
 
 #### **No class November 1**
@@ -73,15 +74,11 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 8. **Monday** November 12
   * **Performances** (can be music, dataset, or trained model).
-  * Introduction to RNNs
-  * FolkRNN
 
 #### 9. November 15
-  * Recursive neural networks (RNNs)
-    * melodies
-    * percussion
-    * harmonies
-    * performance
+  * Introduction to Recursive neural networks (RNNs)
+  * FolkRNN
+  * RNNS for melodies, harmonies, percussion, performing
 
 #### **No class November 22nd, Thanksgiving**
 
@@ -89,7 +86,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * Introduction to variational autoencoders (VAEs).
 
 #### 11. December 6
-  * Introduction to generated audio, WaveNet/NSynth.
+  * Introduction to generated audio, WaveNet.
 
 #### 12. December 13
   * **Final performances**.
