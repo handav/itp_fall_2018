@@ -92,13 +92,12 @@ def compose_midi(all_sightings, duration_stats):
     midi_file.addProgramChange(track, channel, time, program)
     midi_file.addProgramChange(track, channel+1, time, 52)
     for row in all_sightings:
-        duration = get_duration(round(float(row[5])), duration_stats) # duration is in beats
+        duration = 1
+        #duration = get_duration(round(float(row[5])), duration_stats) # duration is in beats
         note = get_note(row[4])
-        #midi_file.addNote(track, channel, note, time, duration, volume)
-        if check_for_voice(row[7]) == True:
-            midi_file.addNote(track, channel+1, note, time, 2, volume)
-        else:
-            midi_file.addNote(track, channel, note, time, duration, volume)        
+        # if check_for_voice(row[7]) == True:
+        #     midi_file.addNote(track, channel+1, note, time, 2, volume)
+        midi_file.addNote(track, channel, note, time, duration, volume)        
         time = time + duration
     save_midi(midi_file)
 

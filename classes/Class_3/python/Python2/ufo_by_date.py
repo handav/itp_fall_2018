@@ -78,8 +78,10 @@ def parse_date(date):
 def get_stats(reader, row_num):
     val_list = []
     for row in reader:
+        # if it's not a float
         if not '.' in row[row_num]:
             val_list.append(int(row[row_num]))
+        # otherwise round the float
         else:
             val_list.append(round(float(row[row_num])))
     stdev = numpy.std(val_list)
@@ -112,7 +114,6 @@ def compose_midi(all_sightings, duration_stats):
             note = get_note(row[4])
             if check_for_voice(row[7]) == True:
                 midi_file.addNote(track, channel+1, note, time, 2, volume)
-            #else:
             midi_file.addNote(track, channel, note, time, duration, volume)        
     save_midi(midi_file)
 
