@@ -31,4 +31,4 @@ then, to run the server:
 
 `livereload`
 
-Then, in the browser of your choice (we'll be using Chrome), navigate to http://localhost:8000/ in your url bar.
+Then, in the browser of your choice (we'll be using Chrome), navigate to http://localhost:8000/ (or the port printed in terminal) in your url bar.
