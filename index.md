@@ -50,23 +50,24 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 #### **No class September 27**
 
 #### 4. October 4
+
   * **Performances**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
-  * Collecting and creating datasets. 
-  * Biases in machine learning (limits of notation), in general and in music specifically.
 
 #### 5. October 11
-  * Introduction to deep ML. Understanding neural nets.
+
+  * Introduction to deep ML.
   * Introduction to ml5.js.
+  * Biases in machine learning, in general and in music specifically.
+  * Collecting and creating datasets. 
 
 #### 6. October 18
-  * Working with ml5.js: LSTMs, pitch detection.
-  * Training your own model
+  * Introduction to clustering algorithms, k-means, T-SNEs. Live coding.
+  * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
 
 #### 7. October 25
-  * Introduction to clustering algorithms, k-means, T-SNEs. Live coding.
-  * Working with Wekinator
-  * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
+  * Working with ml5.js: LSTMs, pitch detection.
+  * Training your own model
 
 #### **No class November 1**
 
@@ -76,7 +77,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * **Performances** (can be music, dataset, or trained model).
 
 #### 9. November 15
-  * Introduction to Recursive neural networks (RNNs)
+  * Introduction to Recursive Neural Networks (RNNs)
   * FolkRNN
   * RNNS for melodies, harmonies, percussion, performing
 
