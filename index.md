@@ -94,7 +94,10 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 
 
-## Statements
+
+--------
+
+### Statements
 --------
 
 ### STATEMENT OF ACADEMIC INTEGRITY
