@@ -52,11 +52,11 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 #### 4. October 4
 
   * **Performances**
-  * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/)
+  * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/) on Clara, a neural net to create piano and chamber music.
 
 #### 5. October 11
 
-  * Guest speaker: [Nadja Rhodes](https://iconix.github.io/)
+  * Guest speaker: [Nadja Rhodes](https://iconix.github.io/) on Deep Hype Bot, a music commentary generator.
   * Introduction to deep ML. Overview of vocabulary, architectures.
   * Biases in machine learning, in general and in music specifically.
   * Collecting and creating datasets.
@@ -64,7 +64,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 #### 6. October 18
   * Working with T-SNEs. 
   * Live coding.
-  * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
+  * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez) on using T-SNEs to create music.
 
 #### 7. October 25
   * Introduction to ml5.js.
