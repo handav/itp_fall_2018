@@ -56,17 +56,20 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 5. October 11
 
-  * Introduction to deep ML.
-  * Introduction to ml5.js.
+  * Guest speaker: [Nadja Rhodes](https://iconix.github.io/)
+  * Introduction to deep ML. Overview of vocabulary, architectures.
   * Biases in machine learning, in general and in music specifically.
-  * Collecting and creating datasets. 
+  * Collecting and creating datasets.
 
 #### 6. October 18
-  * Introduction to clustering algorithms, k-means, T-SNEs. Live coding.
+  * Working with T-SNEs. 
+  * Live coding.
   * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez)
 
 #### 7. October 25
+  * Introduction to ml5.js.
   * Working with ml5.js: LSTMs, pitch detection.
+  * Generating lyrics
   * Training your own model
 
 #### **No class November 1**
@@ -74,17 +77,17 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 #### **No class November 8 -- makeup class November 12**
 
 #### 8. **Monday** November 12
-  * **Performances** (can be music, dataset, or trained model).
+  * **Performances**
 
 #### 9. November 15
-  * Introduction to Recursive Neural Networks (RNNs)
+  * Generating with recursive neural networks (RNNs)
   * FolkRNN
   * RNNS for melodies, harmonies, percussion, performing
 
 #### **No class November 22nd, Thanksgiving**
 
 #### 10. November 29
-  * Introduction to variational autoencoders (VAEs).
+  * Generating with variational autoencoders (VAEs).
 
 #### 11. December 6
   * Introduction to generated audio, WaveNet.
