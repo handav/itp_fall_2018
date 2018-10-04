@@ -4,4 +4,4 @@ We will see each others' performances and hear from a guest speaker.
 
 ### Assigment Week 4
 
-Readings
+There is no assignment this week.
