@@ -62,8 +62,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * Collecting and creating datasets.
 
 #### 6. October 18
-  * Working with T-SNEs. 
-  * Live coding.
+  * Interactive music. T-SNEs, live coding, Wekinator.
   * Guest speaker: [Jason Levine](https://www.instagram.com/livecodez) on using T-SNEs to create music.
 
 #### 7. October 25
