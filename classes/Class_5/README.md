@@ -15,8 +15,13 @@ We'll go over the field of machine learning, learning vocabularly, types of ML a
 ### Resources
 
 https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G
+
 http://www.fast.ai/
+
 https://www.kaggle.com/
+
 https://ml4a.github.io/
+
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+
 https://digitaltalkingdrum.com/2017/08/15/against-black-inclusion-in-facial-recognition/
