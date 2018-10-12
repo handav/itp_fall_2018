@@ -8,7 +8,9 @@ We'll go over the field of machine learning, learning vocabularly, types of ML a
 
 2) Read http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
-3) Begin thinking of a dataset you might want to create, either for music generation or lyric generation. No need to write about it, but bring your idea to class next week.
+3) (If we don't get to this in class): Complete pages 50-67 in this workbook: https://www.alliedmedia.org/peoples-ai
+
+4) Begin thinking of a dataset you might want to create, either for music generation or lyric generation. No need to write about it, but bring your idea to class next week.
 
 ### Resources
 
