@@ -67,6 +67,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 7. October 25
   * Introduction to ml5.js.
+  * Working with datasets
   * Generating lyrics
   * Training your own model
 
