@@ -67,7 +67,6 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 7. October 25
   * Introduction to ml5.js.
-  * Working with ml5.js: LSTMs, pitch detection.
   * Generating lyrics
   * Training your own model
 
@@ -77,6 +76,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 8. **Monday** November 12
   * **Performances**
+  * Continuing with ml5.js: LSTMs, pitch detection.
 
 #### 9. November 15
   * Generating with recursive neural networks (RNNs)
@@ -89,6 +89,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * Generating with variational autoencoders (VAEs).
 
 #### 11. December 6
+  * Check-in on machine learning understanding
   * Introduction to generated audio, WaveNet.
 
 #### 12. December 13
