@@ -7,9 +7,13 @@ We'll learn about T-SNEs and hear from a guest speaker.
 
 Resources:
 http://www.wekinator.org/examples/
+
 https://github.com/fredeerock/wekp5
+
 http://www.cnmat.berkeley.edu/OpenSoundControl/
+
 http://www.sojamo.de/libraries/oscP5/
+
 
 ### Assigment Week 5
 
