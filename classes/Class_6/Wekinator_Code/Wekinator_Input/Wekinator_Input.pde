@@ -28,7 +28,7 @@ void draw() {
     sendOsc();
   }
   text("Continuously sends mouse x and y position (2 inputs) to Wekinator\nUsing message /wek/inputs, to port 6448", 10, 30);
-  text("x=" + mouseX + ", y=" + mouseY, 10, 80);
+  text("x=" + mouseX + ", y=" + mouseY, 10, 70);
 }
 
 void sendOsc() {

@@ -4,7 +4,7 @@
 import oscP5.*;
 import netP5.*;
 OscP5 oscP5;
-int blueColor = 255;
+int colorChange = 0;
 int wek_class = 0;
 
 void setup() {
@@ -19,7 +19,7 @@ void draw() {
   textSize(20);
   text( "Use 2 Wekinator outputs", 5, 15 );
   text( "Listening for /wek/outputs on port 12000", 5, 30 );
-  fill(0, 0, blueColor);
+  fill(0, 0, colorChange);
   textSize(28);
   text("Class is " + wek_class, 300, 200);
 }
@@ -28,11 +28,11 @@ void draw() {
 void oscEvent(OscMessage theOscMessage) {
   if (theOscMessage.addrPattern().equals("/wek/outputs")) {
     if (theOscMessage.get(0).floatValue()==1.0) {
-      blueColor = 150; 
+      colorChange = 150; 
       wek_class = 1;
     }
     if (theOscMessage.get(0).floatValue()==2.0) {
-      blueColor = 255; 
+      colorChange = 255; 
       wek_class = 2;
     }
     println(theOscMessage.get(0).floatValue());
