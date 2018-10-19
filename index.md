@@ -51,7 +51,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 4. October 4
 
-  * **Performances**
+  * **Project #1 Presentations**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/) on Clara, a neural net to create piano and chamber music.
 
 #### 5. October 11
@@ -76,7 +76,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 #### **No class November 8 -- makeup class November 12**
 
 #### 8. **Monday** November 12
-  * **Performances**
+  * **Project #2 Presentations**
   * Continuing with ml5.js: LSTMs, pitch detection.
 
 #### 9. November 15
@@ -94,7 +94,7 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * Introduction to generated audio, WaveNet.
 
 #### 12. December 13
-  * **Final performances**.
+  * **Project #3 Presentations**.
 
 
 
