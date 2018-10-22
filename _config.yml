@@ -4,6 +4,6 @@ theme: jekyll-theme-minimal
 
 ---
 
-Hannah Davis
-[http://www.twitter.com/ahandvanish](http://www.twitter.com/ahandvanish)
-[http://www.hannahishere.com](http://www.hannahishere.com)
+navbar-links:
+Twitter: https://twitter.com/ahandvanish
+Website: https://www.hannahishere.com
