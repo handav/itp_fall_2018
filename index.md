@@ -1,5 +1,5 @@
 ## Generative Music, NYU ITP, Fall 2018
-#### Instructor: [Hannah Davis](www.hannahishere.com) | hannah.davis@nyu.edu
+#### Instructor: [Hannah Davis](http://www.hannahishere.com) | hannah.davis@nyu.edu
 
 ### Description
 --------
@@ -10,7 +10,7 @@ This course aims to provide machine learning literacy as well as an overview of 
 
 We will use p5.js/ml5.js as well as Python and command line tools.
 
-Note: this is a 12-week class spread over the 14-week semester. There will be NO CLASS on Thursday, September 27th, and Thursday, November 1st.
+Note: this is a 12-week class spread over the 14-week semester. There will be NO CLASS on Thursday, September 27th, Thursday, November 1st, and Thursday, November 8th.
 
 ### Course information
 --------
