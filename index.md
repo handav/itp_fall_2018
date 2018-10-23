@@ -1,5 +1,5 @@
 ## Generative Music, NYU ITP, Fall 2018
-#### Instructor: [Hannah Davis](http://www.hannahishere.com) | hannah.davis@nyu.edu
+#### Instructor: [Hannah Davis](http://www.hannahishere.com) | hannah.davis@nyu.edu | [@ahandvanish](https://www.twitter.com/ahandvanish)
 
 ### Description
 --------
