@@ -44,14 +44,14 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 3. September 20
 
-  * Generating music from data with sample and composition
+  * Workshop: generating music from data with sample and composition
   * Creating and saving MIDI files
 
 #### **No class September 27**
 
 #### 4. October 4
 
-  * **Project #1 Presentations**
+  * **Project #1 Music Presentations**
   * Guest speaker: [Christine Mcleavey Payne](http://christinemcleavey.com/) on Clara, a neural net to create piano and chamber music.
 
 #### 5. October 11
@@ -69,33 +69,32 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
   * Introduction to ml5.js.
   * Working with datasets
   * Generating lyrics
-  * Training your own model
+  * Workshop: training your own model (LSTMs)
 
 #### **No class November 1**
 
 #### **No class November 8 -- makeup class November 12**
 
 #### 8. **Monday** November 12
-  * **Project #2 Presentations**
-  * Continuing with ml5.js: LSTMs, pitch detection.
+  * **Project #2 Music Presentations**
+  * Continuing with ml5.js: pitch detection and other models.
 
 #### 9. November 15
-  * Generating with recursive neural networks (RNNs)
-  * FolkRNN
-  * RNNS for melodies, harmonies, percussion, performing
+  * Class presentations on different models
+  * Workshop on generating with recursive neural networks (RNNs)
 
 #### **No class November 22nd, Thanksgiving**
 
 #### 10. November 29
-  * Generating with variational autoencoders (VAEs).
+  * Check-in on machine learning understanding
+  * Workshop on generating with variational autoencoders (VAEs).
 
 #### 11. December 6
-  * Check-in on machine learning understanding
-  * Introduction to generated audio, WaveNet.
+  * Workshop on generated audio, WaveNet.
+  * Workshop on T-SNEs and audio samples.
 
 #### 12. December 13
-  * **Project #3 Presentations**.
-
+  * **Project #3 Final Music Presentations**.
 
 
 
