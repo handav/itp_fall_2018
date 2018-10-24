@@ -81,12 +81,13 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 9. November 15
   * Class presentations on different models
-  * Workshop on generating with recursive neural networks (RNNs)
+  * Intro to Magenta resources
 
 #### **No class November 22nd, Thanksgiving**
 
 #### 10. November 29
   * Check-in on machine learning understanding
+  * Workshop on generating with recursive neural networks (RNNs)
   * Workshop on generating with variational autoencoders (VAEs).
 
 #### 11. December 6
