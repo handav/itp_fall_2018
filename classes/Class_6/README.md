@@ -15,6 +15,6 @@ http://www.cnmat.berkeley.edu/OpenSoundControl/
 http://www.sojamo.de/libraries/oscP5/
 
 
-### Assigment Week 5
+### Assigment Week 6
 
 Collect a dataset for music generation or lyric generation, due next week.
