@@ -77,16 +77,14 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 8. **Monday** November 12
   * **Project #2 Music Presentations**
-  * Continuing with ml5.js: pitch detection and other models.
+  * Intro to Magenta
 
 #### 9. November 15
   * Class presentations on different models
-  * Intro to Magenta
 
 #### **No class November 22nd, Thanksgiving**
 
 #### 10. November 29
-  * Check-in on machine learning understanding
   * Workshop on generating with recursive neural networks (RNNs)
   * Workshop on generating with variational autoencoders (VAEs).
 
