@@ -77,10 +77,10 @@ Office hours are late Thursdays afternoon in person, and occasional Monday hours
 
 #### 8. **Monday** November 12
   * **Project #2 Music Presentations**
-  * Intro to Magenta
 
 #### 9. November 15
   * Class presentations on different models
+  * Intro to Magenta
 
 #### **No class November 22nd, Thanksgiving**
 
