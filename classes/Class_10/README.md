@@ -1,6 +1,6 @@
 #### Workshop link: 
 
-https://github.com/handav/class_ten_workshop](https://github.com/handav/class_ten_workshop)
+https://github.com/handav/class_ten_workshop
 
 #### Assignment for next week:
 
